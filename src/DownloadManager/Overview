@@ -1,0 +1,7 @@
+Download Manager application
+
+
+Building a simple download manager application that needs to download multiple files concurrently. It can do:
+1. The download manager can able to download multiple files simultaneously.
+2. Each file download is an independent task that can be executed concurrently.
+3. Implementing a mechanism to track the progress of each download task and display it to the user.
