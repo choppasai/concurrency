@@ -1,0 +1,4 @@
+Many image processing applications like Lightroom & Photoshop use multiple threads to process an image quickly.
+This project is to build a simplified image repainting task using multiple threads,
+the repainting task here simply doubles the value of every pixel stored in the form of a 2D array.
+Take Input a NXN matrix and repaint it by using 4 threads, one for each quadrant.
