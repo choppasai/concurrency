@@ -1,0 +1,8 @@
+An online reservation system for booking tickets to various events. The
+system needs to handle concurrent requests from multiple users trying to reserve
+seats.
+Requirements:
+1. The reservation system manages the availability of seats for different events.
+2. Multiple users can attempt to reserve seats concurrently.
+3. A user should be able to reserve multiple seats for the same event.
+4. The system should prevent overbooking and ensure the integrity of seat reservations.
